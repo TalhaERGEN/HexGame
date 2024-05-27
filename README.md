@@ -1,7 +1,7 @@
 # Merhaba 
 Proje, 5 sınıftan oluşmaktadır:
 
-GameModel: Oyun işleyişini ve kazananı kontrol eden sınıftır.
+GameModel: Oyun işleyişini ve kazananı kontrol eden sınıftır.<br>
 HexBoard board -> Oyun Tahtası tipindeki o anki oluşturulan oyun tahtasını tutan nesnedir.
 boolen isRedTurn -> Sıradaki oyuncunun kim olduğunu belirler.
 GameModel(int size) -> Seçilen boyutta bir oyun tahtası oluşturur ve oyuna her zaman kırmızı oyuncunun başlamasını sağlar.
