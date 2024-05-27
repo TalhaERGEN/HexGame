@@ -9,7 +9,7 @@ isValidMove(double x, double y) -> Eğer geçerli bir hamle yapıldıysa hücrey
 isGameEnd -> Oyunun bitip bitmediğini kontrol eder.
 definedWinner () -> DFS algoritması kullanarak oyunun kazananını belirler.
 
-![image](https://github.com/TalhaERGEN/HexGame/assets/65824311/a4d252f6-b5f7-40b7-8690-ca5f53b8b9d1)
+
 
 
 
