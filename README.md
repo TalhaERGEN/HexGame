@@ -9,7 +9,7 @@ isValidMove(double x, double y) -> Eğer geçerli bir hamle yapıldıysa hücrey
 isGameEnd -> Oyunun bitip bitmediğini kontrol eder.<br>
 definedWinner () -> DFS algoritması kullanarak oyunun kazananını belirler.<br>
 
-<img width="2" height="2" alt="image" src="https://github.com/user-attachments/assets/ec25f23c-de3d-426a-ba46-ab3842ece0bc" />
+<img width="888" height="274" alt="image" src="https://github.com/user-attachments/assets/50e743e9-0458-41a4-ba03-f2d0b837ecc2" />
 
 
 
